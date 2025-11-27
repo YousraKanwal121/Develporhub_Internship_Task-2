@@ -125,3 +125,22 @@ Through data, we uncover patterns that help improve lives, promote healthier cho
 — Author — Yousra Kanwal, Data Science & Analytics Intern at DevelopersHub Corporation 
 
 ---
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Age%20vs%20BMI.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Age%20vs%20Insurance.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Average%20Charges%20by%20Region.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Average%20charges%20by%20age%20group.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/BMI%20vs%20Insurance.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Charges%20by%20no.%20of%20children.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Confusion%20matrix.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Distribution%20of%20Insurance%20Charges.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Insurance%20charges%20distribution%20by%20smoking%20status.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Logistic%20Regression%20Coefficients.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Smoker%20Insurance%20Charges.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/smoker%20vs%20non%20smoker.PNG)
+
+
+
+
+
+---
+
