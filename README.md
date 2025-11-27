@@ -1,5 +1,3 @@
-# Develporhub_Internship_Task-2YousraKanwal121-Develporhub_Internship_Task-2-
-🔴 Predicting Insurance Claim Amount  🔴 In this project to analyze patterns in customer claims and predict the expected claim amount. The workflow includes data preprocessing, visualization, feature engineering, and training regression models to improve prediction accuracy.
 
 # 🌟 Task 2: Insurance Claim Cost Prediction | 🔍 Data Intelligence Behind Healthcare Expenses
 ## A Data Analytics & Machine Learning Project by Yousra Kanwal
@@ -125,6 +123,7 @@ Through data, we uncover patterns that help improve lives, promote healthier cho
 — Author — Yousra Kanwal, Data Science & Analytics Intern at DevelopersHub Corporation 
 
 ---
+### Bright Background Plots Preview:
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Age%20vs%20BMI.PNG)
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Age%20vs%20Insurance.PNG)
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Average%20Charges%20by%20Region.PNG)
