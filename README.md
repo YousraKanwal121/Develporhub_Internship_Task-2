@@ -137,6 +137,7 @@ Through data, we uncover patterns that help improve lives, promote healthier cho
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Logistic%20Regression%20Coefficients.PNG)
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Smoker%20Insurance%20Charges.PNG)
 ![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/smoker%20vs%20non%20smoker.PNG)
+![Preview](https://github.com/YousraKanwal121/Develporhub_Internship_Task-2/blob/main/Sorted%20Insurance%20Charges.PNG)
 
 
 
